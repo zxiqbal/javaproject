@@ -1,2 +1,2 @@
 print("zafar")
-print("another line1")
+print("another line2")
